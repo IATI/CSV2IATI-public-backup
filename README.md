@@ -1,3 +1,16 @@
+# ATTENTION
+
+## CSV2IATI is Deprecated and this repository is Archived
+
+Please see https://iatistandard.org/en/guidance/publishing-data/ for guidance and other tools available to publish IATI data
+
+## Announcements
+
+* https://iatistandard.org/en/news/iati-publishing-tool-csv2iati-to-be-decommissioned/
+* https://iatistandard.org/en/news/update-csv2iati-decommissioning/
+
+
+
 # CSV2IATI-public-backup
 Backup of the now decommissioned CSV2IATI conversion tool
 
